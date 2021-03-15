@@ -12,7 +12,7 @@ void main() => runApp(
           ),
           body: Center(
             child: Image(
-            image: NetworkImage("https://digitalkumbh.in/wp-content/uploads/2021/02/Untitled-design-9-1.png"),
+            image: AssetImage("images/diamond.png"),
           ),)
         ),
       ),
